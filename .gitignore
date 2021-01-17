@@ -5,7 +5,7 @@ config2.py
 
 # Adding additional files. 
 Vacation_Search.ipynb
-Vacation_Itinerary.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
