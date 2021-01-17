@@ -4,8 +4,6 @@ config1.py
 config2.py
 
 # Adding additional files. 
-API_practice.ipynb 
-random_numbers.ipynb
 Vacation_Search.ipynb
 Vacation_Itinerary.ipynb
 
